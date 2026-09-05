@@ -2,7 +2,7 @@
 
 > 一个用户脚本（Tampermonkey）就能夺回对网页的控制权：绕过反调试、反复制、反水印、全屏检测、无痕模式检测等 20 类限制。
 
-**开源地址**：`<!-- TODO: 在此填入你的 GitHub/Gitee 仓库地址 -->`
+**开源地址**：`(https://github.com/XiaoTian38438/LibertyJS)`
 
 ---
 
@@ -116,13 +116,10 @@ LibertyJS 不是"破解工具"，而是**「让用户重新获得对自己浏览
 
 ---
 
-**开源地址**：`<!-- TODO: 在此填入你的 GitHub/Gitee 仓库地址 -->`
+**开源地址**：`(https://github.com/XiaoTian38438/LibertyJS)`
 
 **协议**：MIT
 
 **版本**：1.0 · 2025
 
 *LibertyJS — 让网页重新属于你。*
-
----
-*AI生成*
